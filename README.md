@@ -1,6 +1,13 @@
 # Few-shot-Meta-learning-papers
 Recent few-shot meta-learning papers
 
+### Newly released in last 2 months
+cbfinn
+nips
+eccv
+icml
+
+
 ### Distance and NN
 
 Siamese Neural Networks for One-shot Image Recognition (**Siamense**)   
